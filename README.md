@@ -22,7 +22,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 .Net Core MVC, .Net Core Web Api, C#, Java&SpringFramework, Hibernate, Android&Java&SqLite, JavaScript, React, Node.js, MongoDB, and RESTful APIs, Relational Database, SQL& NoSql, **
+- 💬 Ask me about: **💡 .Net Core MVC, .Net Core Web Api, C#, Java&SpringFramework, Hibernate, Android&Java&SqLite, JavaScript, React, Node.js, MongoDB, and RESTful APIs, Relational Database, SQL& NoSql,**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a metrobüs**
 
  **<h3 align="left">Skills</h3>**
