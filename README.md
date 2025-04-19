@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/hayro45" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/hayrettin-dal-94028a182" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/hayrettindal1" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
 
  **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.
 🔍 Open to New Opportunities: Seeking a role as a software developer. Excited to collaborate on dynamic projects and constantly learn. Feel free to reach out! 🚀</h3>**
