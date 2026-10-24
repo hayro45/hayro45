@@ -1,54 +1,25 @@
-<div align="center">
-  <h1>👋 Hi, I'm Hayrettin DAL</h1>
-  <h3>Software Engineer | .NET Core & Cloud Native Architecture</h3>
-  
-  <p>
-    <b>Specializing in building scalable Backend Systems, modernizing Legacy Applications, and designing Microservices architectures.</b>
-    <br>
-    Experienced in high-traffic environments (Kubernetes) and AI integration projects.
-  </p>
+# Hayrettin DAL
 
-  <a href="https://www.linkedin.com/in/hayrettin-dal-94028a182/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hayretindal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://hayrettindal.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=vercel" alt="Website" />
-  </a>
-</div>
+Software Engineer | C#/.NET & Full Stack Development
 
-<br />
+I build web applications with C#/.NET, Next.js and React. My experience includes legacy modernization, REST APIs, production troubleshooting and AI integration. In my personal projects, I focus on authorization, data integrity and automated tests.
 
-### 🚀 Technical Stack
+[Portfolio](https://hayrettindal.com) · [LinkedIn](https://www.linkedin.com/in/hayrettin-dal-94028a182/)
 
-I focus on **Clean Architecture**, **DDD**, and **Performance Optimization**.
+## Selected projects
 
-| **Backend & Core** | **Database & Cache** | **DevOps & Tools** | **Frontend** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=cs,dotnet" height="40"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="40"/> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman" height="40"/> | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js" height="40"/> |
-| **C# .NET 8** | **MSSQL / PostgreSQL** | **Docker / K8s** | **Next.js** |
+| Project | What it demonstrates | Explore |
+| --- | --- | --- |
+| Personal Blog & CMS | Next.js + ASP.NET Core; TR/EN publishing, role-based content management and automated backend tests. | [Live website](https://hayrettindal.com) · [Case study](https://hayrettindal.com/blog/kisisel-blog-cms-vaka-calismasi). Source repository is private. |
+| URL Shortener API | .NET 8, Clean Architecture, CQRS, PostgreSQL, validation and xUnit/Moq tests. | [Repository](https://github.com/hayro45/UrlShortener-CleanArchitecture) · [Case study](https://hayrettindal.com/blog/url-shortener-vaka-calismasi). No hosted demo currently. |
+| B2B Support Desk | Spring Boot + React; organization-scoped authorization, transactional audit history and optimistic locking. | [Code and screenshots](https://github.com/hayro45/b2b-support) · [Case study](https://hayrettindal.com/blog/b2b-support-vaka-calismasi) · [Hosted app](https://support.hayrettindal.com), private account required. |
 
-<br />
+## Technologies
 
-### ⚡ What I'm Currently Working On
+C# · .NET · ASP.NET Core · Next.js · React · TypeScript · SQL · Entity Framework Core · PostgreSQL · Docker · Git
 
-- 💼 Architecting a **Microservices-based E-Commerce API** using **.NET 8** and **RabbitMQ**.
-- 🏗️ Modernizing legacy ASP.NET applications to **Next.js 14** & **.NET Core**.
-- 🌱 Deep diving into **Cloud Native Patterns** and **System Design**.
+Additional project experience: Java, Spring Boot, Testcontainers, Python and OpenCV.
 
-<br />
+## Engineering interests
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayro45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hayro45&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <i>⚡ Fun fact: I once debugged a critical production issue while on a metrobüs in Istanbul! 🚌</i>
-</div>
+I am improving the documentation and verification of my portfolio projects, with a focus on access control, database consistency and practical deployment and recovery procedures.
